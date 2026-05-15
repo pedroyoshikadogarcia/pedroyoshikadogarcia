@@ -18,8 +18,8 @@
 ---
 
 ### 📊 Estatísticas e Consistência
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroyoshikadogarcia&theme=nightowl" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroyoshikadogarcia&theme=nightowl" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroyoshikadogarcia&theme=nightowl" />
 
 ---
 
