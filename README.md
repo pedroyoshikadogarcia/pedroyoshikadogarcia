@@ -1,6 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Pedro! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=Olá!+Sou+o+Pedro+😊;Bem+Vindo(a)+ao+Meu+GitHub!" alt="Typing SVG" />
+</div>
 
 ### 👨‍💻 Desenvolvedor & Entusiasta de Tecnologia
 
@@ -18,7 +20,6 @@
 ### 📊 Estatísticas e Consistência
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroyoshikadogarcia&theme=nightowl" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroyoshikadogarcia&theme=nightowl" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroyoshikadogarcia&theme=nightowl&hide_border=true" alt="Streak do Pedro" />
 
 ---
 
@@ -44,18 +45,15 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedroyoshikadogarcia&repo=EduConnect&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedroyoshikadogarcia&repo=UniFlow&theme=radical" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo
-<a href="https://www.linkedin.com/in/pedro-yoshikado-garcia-a428642b7/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-yoshikado-garcia-a428642b7/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedroyoshikado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
