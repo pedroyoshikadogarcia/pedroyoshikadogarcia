@@ -35,4 +35,11 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+### 🐍 Jogo da Cobrinha
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroyoshikadogarcia/pedroyoshikadogarcia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroyoshikadogarcia/pedroyoshikadogarcia/output/github-contribution-grid-snake.svg">
+  <img alt="Github Snake" src="https://raw.githubusercontent.com/pedroyoshikadogarcia/pedroyoshikadogarcia/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
