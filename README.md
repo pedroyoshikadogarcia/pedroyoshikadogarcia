@@ -26,7 +26,7 @@
 ### 📚 Um pouco sobre mim
 <div align="left">
 
-- 🔭 Atualmente estou trabalhando em projetos de **Sistemas de Gestão e Conectividade**.
+- 🔭 Atualmente estou trabalhando em projetos de **Sistemas da Global Solution**.
 - 🌱 Aprendendo cada vez mais sobre **Arquitetura de Software, Cloud e novas tecnologias**.
 - ⚡ Curiosidade: Além de programar, sou apaixonado por música e entusiasta automotivo.
 </div>
