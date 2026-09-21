@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Desenvolvedor & Entusiasta de Tecnologia
 
-🎓 Cursando Ciência da Computação | 💼 Buscando Oportunidades de Estágio
+🎓 Cursando Ciência da Computação | 💼 Estágiando na Vivo - Cyber Security
 
 ---
 
